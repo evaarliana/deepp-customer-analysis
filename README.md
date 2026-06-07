@@ -1,32 +1,20 @@
-# \# Customer Behavior Analysis
+# \## Project Deliverables
 
 # 
 
-# \## Objective
-
-# Analyze customer behavior and transaction patterns to generate business insights.
-
-# 
-
-# \## Tools
-
-# \- SQL
-
-# \- Power BI
-
-# 
-
-# \## Files
-
-# \- Dataset
-
-# \- SQL Query
+# \- SQL Analysis
 
 # \- Power BI Dashboard
 
+# \- Final Presentation Deck
+
 # 
 
-# \## Status
+# \## Presentation
 
-# Project in progress.
+# 
+
+# See:
+
+# presentation/DEEPP\_Final\_Presentation.pdf
 
