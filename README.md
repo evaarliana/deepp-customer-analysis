@@ -1,80 +1,78 @@
-# \# Customer Behavior Analysis
+\# Customer Behavior Analysis
 
-# \## Overview
 
-# 
 
-# This project analyzes customer behavior and sales performance using SQL and Power BI to generate business insights and recommendations.
+\## Overview
 
-# 
 
-# \## Objectives
 
-# 
+This project analyzes customer behavior and sales performance using SQL and Power BI to generate business insights and recommendations.
 
-# \* Understand customer purchasing behavior
 
-# \* Identify key revenue drivers
 
-# \* Discover high-value customer segments
+\## Objectives
 
-# \* Generate actionable business recommendations
 
-# 
 
-# \## Tools \& Technologies
+\* Understand customer purchasing behavior
 
-# 
+\* Identify key revenue drivers
 
-# \* SQL
+\* Discover high-value customer segments
 
-# \* Power BI
+\* Generate actionable business recommendations
 
-# \* Microsoft Excel
 
-# 
 
-# \## Project Deliverables
+\## Tools
 
-# 
 
-# \* SQL Analysis
 
-# \* Data Exploration \& Business Insights
+\* SQL
 
-# \* Interactive Power BI Dashboard
+\* Power BI
 
-# \* Final Business Presentation
+\* Microsoft Excel
 
-# 
 
-# \## Project Structure
 
-# 
+\## Project Deliverables
 
-# \* SQL → Analysis queries
 
-# \* Dataset → Source data
 
-# \* Power BI Dashboard → Dashboard development files
+\* SQL Analysis
 
-# \* Presentation → Final presentation deck
+\* Data Exploration \& Business Insights
 
-# 
+\* Interactive Power BI Dashboard
 
-# \## Project Status
+\* Final Business Presentation
 
-# 
 
-# Completed and continuously updated for portfolio improvement.
 
-# 
+\## Project Structure
 
-# \## Author
 
-# 
 
-# Eva Arliana
+| Folder       | Description             |
+
+| ------------ | ----------------------- |
+
+| SQL          | Analysis queries        |
+
+| Dataset      | Source data             |
+
+| Dashboard    | Power BI dashboard      |
+
+| Presentation | Final presentation deck |
+
+
+
+\## Author
+
+
+
+Eva Arliana
 
 
 
