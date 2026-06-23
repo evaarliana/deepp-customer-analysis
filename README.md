@@ -32,7 +32,6 @@ This project analyzes customer behavior and sales performance using SQL and Powe
 
 * Power BI
 
-* Microsoft Excel
 
 
 
