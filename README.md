@@ -52,19 +52,13 @@ This project analyzes customer behavior and sales performance using SQL and Powe
 
 ## Project Structure
 
-
-
-| Folder       | Description             |
-
-| ------------ | ----------------------- |
-
-| SQL          | Analysis queries        |
-
-| Dataset      | Source data             |
-
-| Dashboard    | Power BI dashboard      |
-
-| Presentation | Final presentation deck |
+| Folder | Description |
+|---------|-------------|
+| SQL | SQL queries and data exploration |
+| Dataset | Source dataset used for analysis |
+| Dashboard | Power BI dashboard and visualizations |
+| Presentation | Final business presentation deck |
+| Assets | Dashboard screenshots and supporting images |
 
 
 
