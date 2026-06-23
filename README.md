@@ -1,8 +1,8 @@
-\# Customer Behavior Analysis
+# Customer Behavior Analysis
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,47 +10,47 @@ This project analyzes customer behavior and sales performance using SQL and Powe
 
 
 
-\## Objectives
+## Objectives
 
 
 
-\* Understand customer purchasing behavior
+* Understand customer purchasing behavior
 
-\* Identify key revenue drivers
+* Identify key revenue drivers
 
-\* Discover high-value customer segments
+* Discover high-value customer segments
 
-\* Generate actionable business recommendations
-
-
-
-\## Tools
+* Generate actionable business recommendations
 
 
 
-\* SQL
-
-\* Power BI
-
-\* Microsoft Excel
+## Tools
 
 
 
-\## Project Deliverables
+* SQL
+
+* Power BI
+
+* Microsoft Excel
 
 
 
-\* SQL Analysis
-
-\* Data Exploration \& Business Insights
-
-\* Interactive Power BI Dashboard
-
-\* Final Business Presentation
+## Project Deliverables
 
 
 
-\## Project Structure
+* SQL Analysis
+
+* Data Exploration \& Business Insights
+
+* Interactive Power BI Dashboard
+
+* Final Business Presentation
+
+
+
+## Project Structure
 
 
 
@@ -68,7 +68,7 @@ This project analyzes customer behavior and sales performance using SQL and Powe
 
 
 
-\## Author
+## Author
 
 
 
