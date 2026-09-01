@@ -113,7 +113,7 @@ The Power BI dashboard provides an overview of:
 - Revenue by Product Type
 - Revenue by State
 
-![E-Commerce Customer & Revenue Dashboard](./dashboard/dashboard.png)
+![E-Commerce Customer & Revenue Insights](./dashboard/E-Commerce%20Customer%20%26%20Revenue%20Insights.jpg)
 
 ---
 
