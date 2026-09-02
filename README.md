@@ -6,6 +6,8 @@ This project analyzes customer purchasing behavior to identify key drivers of re
 
 The analysis uses transaction-level data from Evora Labs, a fictional B2C e-commerce company operating in Australia.
 
+**Project Duration:** May 2026 - June 2026
+
 ---
 
 ## Business Problem
